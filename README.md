@@ -13,7 +13,7 @@ _why do something in 10 minutes manually when you can automate it in 10 hours_.
 
 ## Features
 
-[Version 1] Organizes all the screenshots into a folder.
+[`Version 1`] Organizes all the screenshots into a folder.
 
 ## How to use this?
 
