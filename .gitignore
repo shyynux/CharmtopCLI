@@ -10,3 +10,6 @@ public/
 tmp/
 logs/
 build/
+
+#spagetti code
+./commands/everything.js

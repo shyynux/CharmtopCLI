@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "A CLI tool to organise your messy desktop.",
   "main": "index.js",
+  "bin": {
+    "charmtopcli": "./index.js"
+  },
   "exports": "./index.js",
   "type": "module",
   "scripts": {
