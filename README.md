@@ -8,9 +8,10 @@ _why do something in 10 minutes manually when you can automate it in 10 hours_.
 
 ## How to use this?
 
-- i am still building it so this will be updated in 2 days.
+will be updates in a few hours
 
 ## Tech Stack
 
 - Backend - NodeJS
-[thankful for Ora and Chalk]
+
+[thankful for [Ora](https://github.com/sindresorhus/ora) and [Chalk](https://github.com/chalk/chalk)]
